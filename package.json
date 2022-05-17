@@ -1,0 +1,14 @@
+{
+  "name": "obfuscator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  },
+  "workspaces":[
+    "packages/*"
+  ]
+}
